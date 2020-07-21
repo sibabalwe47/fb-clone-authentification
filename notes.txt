@@ -1,0 +1,26 @@
+1) User Management with AWS Cognito — (1/3) Initial Setup
+
+https://medium.com/free-code-camp/user-management-with-aws-cognito-1-3-initial-setup-a1a692a657b3#.pgxyg8q8o
+
+2) User Management with AWS Cognito — (2/3) The Core Functionality
+
+https://medium.com/free-code-camp/user-management-with-aws-cognito-2-3-the-core-functionality-ec15849618a4
+
+3) User Management with AWS Cognito — (3/3) Last Steps to Full-Fledged
+
+https://medium.com/free-code-camp/user-management-with-aws-cognito-3-3-last-steps-to-full-fledged-73f4a3a9f05e#.v3mg316u5
+
+
+4)Amazon Cognito User Pools in NodeJS as fast as possible.
+
+https://medium.com/@prasadjay/amazon-cognito-user-pools-in-nodejs-as-fast-as-possible-22d586c5c8ec
+
+
+Packages needed:
+
+npm install --save amazon-cognito-identity-js
+npm install --save aws-sdk
+npm install --save request
+npm install --save jwk-to-pem
+npm install --save jsonwebtoken
+npm install --save node-fetch
